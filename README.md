@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bohdan aka @r0uge-exe
+- 👋 Hi, I’m Bohdan aka @r0ugeEngine
 - 👀 I’m interested in games, movies, programming
 - 🌱 I’m currently learning Solidity
 - 📫 How to reach me pukhnobg@gmail.com
