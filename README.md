@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Bohdan aka @r0ugeEngine
-- 👀 I’m interested in games, movies, programming
-- 🌱 I’m currently learning Solidity
+⛓️Blockchain enthusiast⛓️
+- 👋 Hi, I’m @r0ugeEngine
+- 👀 I’m interested in programming, games, movies
+- 🌱 I’m currently learning web3: 🗿Solidity🗿, 🟣ethers.js🟣, 🪙Metamask🪙, unit testing(👷‍♂️Hardhat👷‍♂️, ☕Mocha☕, 🍃Chai🍃), 🐍Slither🐍
 - 📫 How to reach me pukhnobg@gmail.com
 
 <!---
