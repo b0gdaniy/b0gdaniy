@@ -1,6 +1,6 @@
 ⛓️Blockchain enthusiast⛓️
 - 👋 Hi, I’m @r0ugeEngine🧑‍🦱
-- 🌱 I’m currently learning web3: Solidity🗿, ethers.js🟣, Metamask🪙, unit testing(Hardhat👷‍♂️, Mocha☕, Chai🍃), Slither🐍
+- 📖 I’m currently learning web3: Solidity🗿, ethers.js🟣, Metamask🪙, unit testing(Hardhat👷‍♂️, Mocha☕, Chai🍃, Waffle🧇), Slither🐍
 - 👀 I’m interested in programming, games, movies
 - ⚔️ Witcher fan
 - 📫 How to reach me pukhnobg@gmail.com
