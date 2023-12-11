@@ -1,11 +1,5 @@
-⛓️Blockchain enthusiast⛓️
-- 👋 Hi, I’m @r0ugeEngine🧑‍🦱
-- 📖 I’m currently learning web3: Solidity🗿, ethers.js🟣, Metamask🪙, unit testing(Hardhat👷‍♂️, Mocha☕, Chai🍃, Waffle🧇), Slither🐍
-- 👀 I’m interested in programming, games, movies
-- ⚔️ Witcher fan
-- 📫 How to reach me pukhnobg@gmail.com
+<h1 align="left">Bohdan (@r0ugeEngine) 👋</h1>
 
-<!---
-r0uge-exe/r0uge-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=r0ugeEngine)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0ugeEngine&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
